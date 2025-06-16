@@ -1,0 +1,8 @@
+{
+  "id": "959ecb",
+  "name": "Quote Sync Plugin",
+  "modes": [
+    "canvas"
+  ],
+  "icon": "/icon.svg"
+}
