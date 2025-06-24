@@ -7,4 +7,4 @@ However, I provided a video to show how to use the plugin for personal projects:
 
 <div align="center">
   <video src="https://github.com/user-attachments/assets/890cdec2-0bd7-42eb-a14c-f432c0d8398c" width="300"/>
-</video>div>
+</div>
