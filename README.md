@@ -2,18 +2,5 @@
 
 This is a template for using the Framer Plugin API in a TypeScript project.
 
-## Quickstart
+https://github.com/user-attachments/assets/890cdec2-0bd7-42eb-a14c-f432c0d8398c
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Learn more: https://www.framer.com/developers/plugins/introduction
